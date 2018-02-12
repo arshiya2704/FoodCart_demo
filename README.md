@@ -16,3 +16,13 @@ Steps to run the application:
 2. npm start
 
 Below are some screenshots demonstrating the application:
+
+### Welcome Page
+![](images/1.png)
+
+### Add the items
+![](images/2.png)
+
+### Delete the items
+![](images/3.png)
+
